@@ -15,7 +15,7 @@ Spatial audio can sometimes glitch or break when new users join the session. It�
 This was my first attempt at building something like this, so the way player sessions and states are managed isn’t fully production-grade or secure. Consider it a proof-of-concept — please strengthen the authentication and state handling before deploying it in any serious environment.
 
 ### 🛠️ Server Jar Access
-I no longer have access to the original server JAR. However, if you know what you're doing, recreating the server and setting everything up should take no more than 10–15 minutes.
+I no longer have access to the original server JAR. However, if you know what you're doing, recreating the server jar and setting everything up should take no more than 10–15 minutes.
 
 ---
 
